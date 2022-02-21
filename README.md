@@ -2,7 +2,7 @@
 
 Hey there! I’m Matheus Lopes, 22 years old, currently living in Brazil!
 
-ICurrently, I am a graduate student in Computer Engineering at Outro Preto Federal University (UFOP, Universidade Federal de Ouro Preto) in João Monlevade, Minas Gerais.
+Currently, I am a graduate student in Computer Engineering at Outro Preto Federal University (UFOP, Universidade Federal de Ouro Preto) in João Monlevade, Minas Gerais.
 
 A developer in search of learning and evolution! 
 

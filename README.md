@@ -8,7 +8,7 @@ A developer in search of learning and evolution!
 
 ## Technologies 
 
-I already have a base of HTML and CSS and studying JavaScript!
+I already have a base of HTML and CSS, now i'm studying JavaScript!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mat-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

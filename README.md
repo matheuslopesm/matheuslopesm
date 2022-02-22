@@ -1,20 +1,35 @@
-## About Me
+## 👨🏻‍💻 About Me
 
 Hey there! I’m Matheus Lopes, 22 years old, currently living in Brazil!
 
 Currently, I am a graduate student in Computer Engineering at Outro Preto Federal University (UFOP, Universidade Federal de Ouro Preto) in João Monlevade, Minas Gerais.
 
-A developer in search of learning and evolution! 
+Currently, my main focus of my career is the area of Web development. I'm using HTML and CSS and studying the JavaScript stack.
 
-## Technologies 
+I really like football, games, movies/series and exercising. I often watch something or play games in my free time, as well as taking care of my health!
 
-I already have a base of HTML and CSS, now i'm studying JavaScript!
+I also really like investments and the financial market. 
+
+A developer in search of learning and evolution. 🚀
+
+
+<h2>🛠&nbsp;Tech Stack</h2>
+<h3>💻&nbsp;Front-end:</h3>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mat-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mat-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mat-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- </div>
+</div>
+  
+  
+<h3>🤏🏼&nbsp;Superficial knowledge</h3>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Mat-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Mat-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">  
+</div>
+
 
  ## Contact Me 
  

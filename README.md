@@ -11,24 +11,42 @@ I really like football, games, movies/series... I often watch something or play 
 🚀
 
 
-<h2>🛠&nbsp;Tech Stack</h2>
-<h3>💻&nbsp;Front-end:</h3>
-
+<h2>🛠&nbsp;Techs</h2>
+<h3>Web Development:</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Mat-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mat-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mat-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+
+<h3>Frameworks, libraries, platforms:</h3>
+<div style="display: inline_block"><br>
   <img align="center" alt="Mat-BS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Mat-BL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg">
 </div>
   
   
-<h3>⚙&nbsp;Others</h3>
-
+<h3>Programming Languages:</h3>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Mat-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Mat-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Mat-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">  
 </div>
+
+<br>
+<h2>🐱‍👤&nbsp;DevOps</h2>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Mat-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Mat-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+</div>
+
+<br>
+<h2>⚙&nbsp;Tools</h2>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Mat-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Mat-FIG" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+</div>
+
+
 
 
  ## Contact Me 

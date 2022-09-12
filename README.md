@@ -24,6 +24,11 @@ I really like football, games, movies/series... I often watch something or play 
   <img align="center" alt="Mat-BS" height="30" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="Mat-BL" height="30" src="https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white">
 </div>
+
+<h3>Databases:</h3>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Mat-PGSQL" height="30" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+</div>
   
   
 <h3>Programming Languages:</h3>

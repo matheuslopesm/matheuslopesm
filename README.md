@@ -4,11 +4,9 @@ I’m Matheus Lopes, 22 years old, currently living in Brazil!
 
 Currently, I am a graduate student in Computer Engineering at Ouro Preto Federal University (UFOP, Universidade Federal de Ouro Preto) in João Monlevade, Minas Gerais.
 
-My career focus is the area of Web development. I'm using HTML, CSS and the JavaScript stack.
+My career focus is the area of Web development, in the JavaScript stack.
 
-I really like football, games, movies/series... I often watch something or play games in my free time.
-
-🚀
+I really like soccer, games, movies/series... I often watch something or play games in my free time. 🚀
 
 
 <h2>🛠&nbsp;Techs</h2>
@@ -21,8 +19,11 @@ I really like football, games, movies/series... I often watch something or play 
 
 <h3>Frameworks, libraries, platforms:</h3>
 <div style="display: inline_block"><br>
+  <img align="center" alt="Mat-NJS" height="30" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img align="center" alt="Mat-NPM" height="30" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
   <img align="center" alt="Mat-BS" height="30" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img align="center" alt="Mat-BL" height="30" src="https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white">
+  <img align="center" alt="Mat-INS" height="30" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE">
+
 </div>
 
 <h3>Databases:</h3>

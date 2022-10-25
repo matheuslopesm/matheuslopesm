@@ -52,8 +52,11 @@ I really like soccer, games, movies/series... I often watch something or play ga
   <img align="center" alt="Mat-FIG" height="30" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 
-
-
+<br>
+<h2>🎓&nbsp;Education</h2>
+<div style="display: inline_block"><br>
+  <img align="center" href="https://exercism.org/profiles/matheuslopesmdev" alt="Mat-EX" height="30" src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white">
+</div>
 
  ## Contact Me 
  

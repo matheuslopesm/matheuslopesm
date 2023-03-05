@@ -20,9 +20,11 @@ I really like soccer, games, movies/series... I often watch something or play ga
 <h3>Frameworks, libraries, platforms:</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Mat-RJS" height="30" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img align="center" alt="Mat-STC" height="30" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
   <img align="center" alt="Mat-NJS" height="30" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="Mat-YARN" height="30" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white">
-  <img align="center" alt="Mat-NPM" height="30" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
+  <img align="center" alt="Mat-NPM" height="30" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
+  <img align="center" alt="Mat-SIO" height="30" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101">
   <img align="center" alt="Mat-BS" height="30" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="Mat-INS" height="30" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE">
 

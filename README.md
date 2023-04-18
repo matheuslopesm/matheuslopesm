@@ -55,12 +55,7 @@ I really like soccer, games, movies/tv series... I often watch something or play
   <img align="center" alt="Mat-VS" height="30" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img align="center" alt="Mat-FIG" height="30" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 </div>
-
 <br>
-<h2>🎓&nbsp;Education</h2>
-<div style="display: inline_block"><br>
-  <a href="https://exercism.org/profiles/matheuslopesmdev" target="_blank"><img align="center" src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white" target="_blank"></a>
-</div>
 
  ## Contact Me 
  
@@ -68,7 +63,13 @@ I really like soccer, games, movies/tv series... I often watch something or play
     <a href="https://www.instagram.com/matheus.lpm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:matheus.lopesmdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/matheus-lopes-441025231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+  </div>
+  <br>
+  <br>
+
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=matheuslopesm&theme=dracula&hide_border=false)<br/>
+
+
 ##
  
 </div>

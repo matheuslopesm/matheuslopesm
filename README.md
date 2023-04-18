@@ -1,12 +1,12 @@
 ## 👨🏻‍💻 About Me
 
-I’m Matheus Lopes, 23 years old, currently living in Brazil!
+Hi, i'm Matheus Lopes, 24 years old, currently living in Brazil!
 
 Currently, I am a graduate student in Computer Engineering at Ouro Preto Federal University (UFOP, Universidade Federal de Ouro Preto) in João Monlevade, Minas Gerais.
 
-My career focus is the area of Web development, in the JavaScript stack.
+My career focus is the JavaScript stack, more specifically ReactJS.
 
-I really like soccer, games, movies/series... I often watch something or play games in my free time. 🚀
+I really like soccer, games, movies/tv series... I often watch something or play games in my free time. 🚀
 
 
 <h2>🛠&nbsp;Techs</h2>

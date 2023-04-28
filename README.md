@@ -1,4 +1,4 @@
-## 👨🏻‍💻 About Me
+## 👨🏻‍💻 About Me  
 
 Hi, i'm Matheus Lopes, 24 years old, currently living in Brazil!
 
@@ -7,6 +7,8 @@ Currently, I am a graduate student in Computer Engineering at Ouro Preto Federal
 My career focus is the JavaScript stack, more specifically ReactJS.
 
 I really like soccer, games, movies/tv series... I often watch something or play games in my free time. 🚀
+
+![](https://komarev.com/ghpvc/?username=matheuslopesm&color=blue&style=for-the-badge)
 
 
 <h2>🛠&nbsp;Techs</h2>
